@@ -4,6 +4,7 @@ Every feature can be toggled on or off via config, so you only load what you wan
 
 ## Links
 - [Project Roadmap](https://github.com/users/Bear-ium/projects/19)
+- [Wiki](https://cornucopia.bearium.dev/)
 - [Discord](https://discord.gg/3625HRk7AP)
 
 ---
