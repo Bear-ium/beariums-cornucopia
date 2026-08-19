@@ -2,6 +2,8 @@
 A  NeoForge Minecraft mod which aims to have most of the genres in it.<br>
 Every feature can be toggled on or off via config, so you only load what you want.
 
+---
+
 ## Links
 - [Project Roadmap](https://github.com/users/Bear-ium/projects/19)
 - [Wiki](https://cornucopia.bearium.dev/)
