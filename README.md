@@ -1,5 +1,5 @@
 # Bearium's Cornucopia
-A  NeoForge Minecraft mod which aims to have most of the genres in it.
+A  NeoForge Minecraft mod which aims to have most of the genres in it.<br>
 Every feature can be toggled on or off via config, so you only load what you want.
 
 ## Links
