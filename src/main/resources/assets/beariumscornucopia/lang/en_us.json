@@ -1,0 +1,13 @@
+{
+  "itemGroup.beariumscornucopia": "Example Mod Tab",
+  "block.beariumscornucopia.example_block": "Example Block",
+  "item.beariumscornucopia.example_item": "Example Item",
+
+  "beariumscornucopia.configuration.title": "Bearium's Cornucopia Configs",
+  "beariumscornucopia.configuration.section.beariumscornucopia.common.toml": "Bearium's Cornucopia Configs",
+  "beariumscornucopia.configuration.section.beariumscornucopia.common.toml.title": "Bearium's Cornucopia Configs",
+  "beariumscornucopia.configuration.items": "Item List",
+  "beariumscornucopia.configuration.logDirtBlock": "Log Dirt Block",
+  "beariumscornucopia.configuration.magicNumberIntroduction": "Magic Number Text",
+  "beariumscornucopia.configuration.magicNumber": "Magic Number"
+}
