@@ -1,4 +1,5 @@
 @echo off
 cd /d "%~dp0"
-call gradlew.bat clean runClient --info
+call gradlew.bat clean --info
+call gradlew.bat runClient --info
 pause
